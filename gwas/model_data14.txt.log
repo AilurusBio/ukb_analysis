@@ -1,0 +1,30 @@
+PLINK v2.00a3.7LM 64-bit Intel (24 Oct 2022)
+Options in effect:
+  --bfile raw-GWA-data
+  --export A
+  --extract res.glm.logistic.clean.sig14
+  --keep ./ukb_cal_chr1_v2_all.fam.sample
+  --out gwas/model_data14.txt
+  --pheno ./ukb_cal_chr1_v2_all.fam.sample
+  --pheno-col-nums 6
+
+Hostname: ailurus-localserver1
+Working directory: /home1/songjie/work/P1V001_J44COPD
+Start time: Thu Mar 16 02:29:23 2023
+
+Random number seed: 1678904963
+257596 MiB RAM detected; reserving 128798 MiB for main workspace.
+Using up to 64 threads (change this with --threads).
+488377 samples (264797 females, 223467 males, 113 ambiguous; 488377 founders)
+loaded from raw-GWA-data.fam.
+25509 variants loaded from raw-GWA-data.bim.
+1 binary phenotype loaded (445 cases, 445 controls).
+--extract: 2 variants remaining.
+--keep: 890 samples remaining.
+890 samples (485 females, 405 males; 890 founders) remaining after main
+filters.
+445 cases and 445 controls remaining after main filters.
+2 variants remaining after main filters.
+--export A: gwas/model_data14.txt.raw written.
+
+End time: Thu Mar 16 02:29:23 2023

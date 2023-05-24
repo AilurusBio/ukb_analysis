@@ -1,0 +1,9 @@
+Category	Number	Remarks
+Total population	502492	The total number of individuals in the phenotypic dataset.
+Gender errors	14614	Individuals whose genetic sex does not match their recorded sex.
+High heterozygosity	16104	Individuals with a heterozygosity rate above 0.1951 after PCA correction.
+Missingness	21594	Individuals with a missingness rate greater than 0.02.
+Ethnicity	92888	Individuals whose genetic ethnic grouping is not Caucasian.
+Relatedness	67296	Individuals with a genetic relationship correlation greater than 0.05.
+Ethnic background	59919	Individuals whose ethnic background is not British.
+Remaining	343558	The population size after removing all control items.
